@@ -1,0 +1,16 @@
+h1{color:#E6E6FA;}
+h2{text-align:right;}
+.about{text-decoration:overline;color:#FFA500}
+body{
+	background-image:url('law.jpg');
+background-attachment:fixed;
+background-position:center;
+color:#fff;
+}
+p{color:#0000FF;}
+.una{
+	font-variant:small-caps;
+	text-tranform:lowercase;
+	text-shadow:2px 2px #1f1f1f;
+	color:#fff;
+	}

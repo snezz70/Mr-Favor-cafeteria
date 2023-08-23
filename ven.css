@@ -1,0 +1,29 @@
+h2{visibility:hidden;}
+a:link{
+    color:#5F9EA0;
+}
+a:hover{
+    color:#008000;
+}
+.talk{
+    border-style:dashed;border-width:17px;color:#FF0000;
+}
+.mun{
+    border-top-style:dotted;border-right-style:solid;border-bottom-style:dotted;border-left-style:dashed;
+}
+table,td,th{
+    border:1px solid;
+}
+table{
+    width:100%;border-collapse:collapse;
+}
+ul{
+    list-style-position:outside;
+}
+div{
+    border:1px solid greenyellow;background-color:lightblue;padding:30px;
+}
+.euro{
+    position:sticky;border:3px dashed #5F9EA0;
+}
+img{border-radius:50%;}
